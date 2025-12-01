@@ -7,6 +7,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 // Shared import (for future-proofing and consistency across screens)
 import './utils/sharedImport'; // Even if unused here, this keeps consistency
+import './utils/firebase'; // Bootstraps Firebase configuration (warns if not configured)
 
 // Screen imports
 import HomeScreen from './screens/HomeScreen';
