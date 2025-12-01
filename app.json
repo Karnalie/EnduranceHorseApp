@@ -22,6 +22,16 @@
       },
       "edgeToEdgeEnabled": true
     },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyDKczbNAgqraY0L5xuKajBfBriJxv_okSg",
+        "authDomain": "endurance-horse-app.firebaseapp.com",
+        "projectId": "endurance-horse-app",
+        "storageBucket": "endurance-horse-app.firebasestorage.app",
+        "messagingSenderId": "1038571122266",
+        "appId": "1:1038571122266:web:f946ae58b59700d61d7263"
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
